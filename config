@@ -1,0 +1,4 @@
+[General]
+day-temperature=4000
+night-temperature=3000
+adjustment-method=wayland
